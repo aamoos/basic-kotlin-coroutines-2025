@@ -1,4 +1,4 @@
-package kotlin.basic
+package kotlinsource.basic
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

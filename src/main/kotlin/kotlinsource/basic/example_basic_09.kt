@@ -1,4 +1,4 @@
-package kotlin.basic
+package kotlinsource.basic
 
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
